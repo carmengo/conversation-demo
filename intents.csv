@@ -1,0 +1,162 @@
+you suck,ABORT_CONVERSATION
+You're welcome,ABORT_CONVERSATION
+you're terrible,ABORT_CONVERSATION
+you're stupid,ABORT_CONVERSATION
+you're a waste of time,ABORT_CONVERSATION
+You are welcome,ABORT_CONVERSATION
+you are so dumb,ABORT_CONVERSATION
+transfer me to a person,ABORT_CONVERSATION
+toodles,ABORT_CONVERSATION
+time to go,ABORT_CONVERSATION
+this sucks,ABORT_CONVERSATION
+then bye,ABORT_CONVERSATION
+thank you for your help,ABORT_CONVERSATION
+thanks watson,ABORT_CONVERSATION
+start over,ABORT_CONVERSATION
+start from the begining,ABORT_CONVERSATION
+so long,ABORT_CONVERSATION
+Siri is smarter than you,ABORT_CONVERSATION
+Siri is better than you,ABORT_CONVERSATION
+signing out,ABORT_CONVERSATION
+signing off,ABORT_CONVERSATION
+shut up,ABORT_CONVERSATION
+should go,ABORT_CONVERSATION
+should be going,ABORT_CONVERSATION
+see you soon,ABORT_CONVERSATION
+see you later,ABORT_CONVERSATION
+see you,ABORT_CONVERSATION
+see ya soon,ABORT_CONVERSATION
+see ya later,ABORT_CONVERSATION
+see ya,ABORT_CONVERSATION
+restart,ABORT_CONVERSATION
+please transfer me to a human,ABORT_CONVERSATION
+Please let me speak to the handler,ABORT_CONVERSATION
+please direct me to a human agent,ABORT_CONVERSATION
+over and out,ABORT_CONVERSATION
+out of time,ABORT_CONVERSATION
+ok bye,ABORT_CONVERSATION
+nope,ABORT_CONVERSATION
+never mind,ABORT_CONVERSATION
+nevermind,ABORT_CONVERSATION
+need to run,ABORT_CONVERSATION
+need to leave,ABORT_CONVERSATION
+need to go,ABORT_CONVERSATION
+my time is up,ABORT_CONVERSATION
+logging off,ABORT_CONVERSATION
+laters,ABORT_CONVERSATION
+later,ABORT_CONVERSATION
+just forget it,ABORT_CONVERSATION
+I want to talk to a person,ABORT_CONVERSATION
+I want to talk to a human,ABORT_CONVERSATION
+I want to speak to a real person,ABORT_CONVERSATION
+I want to speak to a human,ABORT_CONVERSATION
+I want a real person,ABORT_CONVERSATION
+I want a human instead,ABORT_CONVERSATION
+I want a human,ABORT_CONVERSATION
+I think Siri understand better,ABORT_CONVERSATION
+I'm leaving,ABORT_CONVERSATION
+I hate you,ABORT_CONVERSATION
+I give up,ABORT_CONVERSATION
+have to run,ABORT_CONVERSATION
+have to leave,ABORT_CONVERSATION
+have to go,ABORT_CONVERSATION
+got to go,ABORT_CONVERSATION
+gotta run,ABORT_CONVERSATION
+gotta go,ABORT_CONVERSATION
+good night,ABORT_CONVERSATION
+good bye,ABORT_CONVERSATION
+goodbye,ABORT_CONVERSATION
+fuck you,ABORT_CONVERSATION
+fuck off,ABORT_CONVERSATION
+forget it,ABORT_CONVERSATION
+forget about it,ABORT_CONVERSATION
+farewell,ABORT_CONVERSATION
+do you know anything?,ABORT_CONVERSATION
+can I talk to a person,ABORT_CONVERSATION
+can I please speak to a human,ABORT_CONVERSATION
+bye now,ABORT_CONVERSATION
+bye bye,ABORT_CONVERSATION
+BYE,ABORT_CONVERSATION
+yo,OPENING_TALK
+yello,OPENING_TALK
+what up,OPENING_TALK
+what's up,OPENING_TALK
+what's happening,OPENING_TALK
+how you doing,OPENING_TALK
+how's it hanging,OPENING_TALK
+how's it going,OPENING_TALK
+how is it going,OPENING_TALK
+howdy,OPENING_TALK
+How are you today,OPENING_TALK
+how are you,OPENING_TALK
+how are ya,OPENING_TALK
+hiya,OPENING_TALK
+hi there,OPENING_TALK
+hi,OPENING_TALK
+hey there,OPENING_TALK
+heya,OPENING_TALK
+hey,OPENING_TALK
+Hello,OPENING_TALK
+greetings,OPENING_TALK
+good morning,OPENING_TALK
+good evening,OPENING_TALK
+good day,OPENING_TALK
+g'day,OPENING_TALK
+buenos dias,OPENING_TALK
+Im done,OPENING_TALK
+I'm done,OPENING_TALK
+what is a human being,SMALL_TALK
+Would you like something to drink,SMALL_TALK
+who's your favorite director,SMALL_TALK
+who's your favorite actress,SMALL_TALK
+Where can I get married while Im in Vegas,SMALL_TALK
+Where can I find Elvis,SMALL_TALK
+where are you from,SMALL_TALK
+What time zone are we in,SMALL_TALK
+what time should i leave to avoid the traffic jam,SMALL_TALK
+What time is lunch being served on Thursday,SMALL_TALK
+what's your favorite team,SMALL_TALK
+what's your favorite song,SMALL_TALK
+whats the proper amount to tip,SMALL_TALK
+Whats the nearest planet that could host life,SMALL_TALK
+Whats an alternative for showmount e using nfs4,SMALL_TALK
+what kind of movies do you prefer,SMALL_TALK
+what kind of movies do you like,SMALL_TALK
+what is your native language,SMALL_TALK
+what is the weather like outside,SMALL_TALK
+How do I look today,SMALL_TALK
+do you like sports,SMALL_TALK
+Can you read my mind,SMALL_TALK
+can we drink more,SMALL_TALK
+can i smoke weed,SMALL_TALK
+are you married,SMALL_TALK
+are you male or female,SMALL_TALK
+who is your father,SMALL_TALK
+who is your favorite actor,SMALL_TALK
+do you have any children,SMALL_TALK
+what is your favorite movie?,SMALL_TALK
+shall we going to get margaritas,SMALL_TALK
+Are you thirsty,SMALL_TALK
+how old are you,SMALL_TALK
+how much do you weigh,SMALL_TALK
+do you have a girlfriend,SMALL_TALK
+do you have a boyfriend,SMALL_TALK
+do you want to be my boyfriend,SMALL_TALK
+Have you seen any shows in Vegas?,SMALL_TALK
+could you please tell me a joke,SMALL_TALK
+tell me a story,SMALL_TALK
+Where did you go to college?,SMALL_TALK
+Where did you go to school?,SMALL_TALK
+did you go to school,SMALL_TALK
+How did you become so smart,SMALL_TALK
+How did you become so brillant,SMALL_TALK
+are you single,SMALL_TALK
+say something,SMALL_TALK
+tell me something,SMALL_TALK
+tell something,SMALL_TALK
+Are you going to the concert?,SMALL_TALK
+would you like to go to the concert,SMALL_TALK
+Where are your clothes?,SMALL_TALK
+why are you naked,SMALL_TALK
+where do you live,SMALL_TALK
+Can you clean my house?,SMALL_TALK

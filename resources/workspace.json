@@ -1,0 +1,1370 @@
+{
+  "name": "Chemical Engineering",
+  "created": "2017-07-17T21:45:51.326Z",
+  "intents": [
+    {
+      "intent": "discovery",
+      "created": "2017-07-18T21:55:19.548Z",
+      "updated": "2017-07-21T00:14:14.959Z",
+      "examples": [
+        {
+          "text": "How does a catalytic converter work?",
+          "created": "2017-07-18T21:56:01.316Z",
+          "updated": "2017-07-18T21:56:01.316Z"
+        },
+        {
+          "text": "Describe pneumatic conveying?",
+          "created": "2017-07-18T21:56:01.335Z",
+          "updated": "2017-07-18T21:56:01.335Z"
+        },
+        {
+          "text": "How should you extract hydrogen from water?",
+          "created": "2017-07-18T21:56:01.364Z",
+          "updated": "2017-07-18T21:56:01.364Z"
+        },
+        {
+          "text": "what are the fundamentals about activated carbon",
+          "created": "2017-07-21T00:11:53.177Z",
+          "updated": "2017-07-21T00:11:53.177Z"
+        },
+        {
+          "text": "tell me about activated carbon",
+          "created": "2017-07-21T00:12:08.010Z",
+          "updated": "2017-07-21T00:12:08.010Z"
+        },
+        {
+          "text": "activated carbon extrusion",
+          "created": "2017-07-21T00:12:57.704Z",
+          "updated": "2017-07-21T00:13:35.677Z"
+        },
+        {
+          "text": "How does a Spray Condenser work?",
+          "created": "2017-07-18T21:56:01.299Z",
+          "updated": "2017-07-18T21:56:01.299Z"
+        },
+        {
+          "text": "List the advantages and disadvantages of a PFR",
+          "created": "2017-07-18T21:56:01.203Z",
+          "updated": "2017-07-18T21:56:01.203Z"
+        },
+        {
+          "text": "silver in wastewater",
+          "created": "2017-07-21T00:14:14.959Z",
+          "updated": "2017-07-21T00:14:14.959Z"
+        },
+        {
+          "text": "tell me about wastewater treatment",
+          "created": "2017-07-21T00:14:02.528Z",
+          "updated": "2017-07-21T00:14:02.528Z"
+        }
+      ],
+      "description": null
+    },
+    {
+      "intent": "SMALL_TALK",
+      "created": "2017-07-20T22:46:03.006Z",
+      "updated": "2017-07-20T22:55:40.601Z",
+      "examples": [
+        {
+          "text": "what's your favorite song",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "tell me something",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "say something",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "are you single",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "How did you become so brillant",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "How did you become so smart",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "did you go to school",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Where did you go to school?",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Where did you go to college?",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "tell me a story",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "could you please tell me a joke",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "do you want to be my boyfriend",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "do you have a boyfriend",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "do you have a girlfriend",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "how much do you weigh",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "how old are you",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Are you thirsty",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "shall we going to get margaritas",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "what is your favorite movie?",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "do you have any children",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "who is your favorite actor",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "who is your father",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "are you male or female",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "are you married",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "can i smoke weed",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "can we drink more",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Can you read my mind",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "do you like sports",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "How do I look today",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "what kind of movies do you like",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "what kind of movies do you prefer",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Whats the nearest planet that could host life",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "whats the proper amount to tip",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "what's your favorite team",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "where are you from",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Where can I get married while Im in Vegas",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "who's your favorite actress",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "who's your favorite director",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Would you like something to drink",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "what is a human being",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Can you clean my house?",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "where do you live",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "why are you naked",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Where are your clothes?",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "tell something",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        }
+      ],
+      "description": null
+    },
+    {
+      "intent": "Definition",
+      "created": "2017-07-17T22:36:49.187Z",
+      "updated": "2017-07-20T22:53:10.236Z",
+      "examples": [
+        {
+          "text": "What is an isochoric process?",
+          "created": "2017-07-17T22:36:49.212Z",
+          "updated": "2017-07-17T22:36:49.212Z"
+        },
+        {
+          "text": "How does paint dry?",
+          "created": "2017-07-18T17:41:06.465Z",
+          "updated": "2017-07-18T17:41:06.465Z"
+        },
+        {
+          "text": "What is Viscosity?",
+          "created": "2017-07-18T17:41:06.465Z",
+          "updated": "2017-07-18T17:41:06.465Z"
+        },
+        {
+          "text": "Define viscosity",
+          "created": "2017-07-20T22:52:42.975Z",
+          "updated": "2017-07-20T22:52:42.975Z"
+        },
+        {
+          "text": "viscosity",
+          "created": "2017-07-20T22:52:56.851Z",
+          "updated": "2017-07-20T22:52:56.851Z"
+        },
+        {
+          "text": "definite entropy",
+          "created": "2017-07-20T22:53:10.236Z",
+          "updated": "2017-07-20T22:53:10.236Z"
+        },
+        {
+          "text": "What is entropy?",
+          "created": "2017-07-17T22:36:49.212Z",
+          "updated": "2017-07-17T22:36:49.212Z"
+        },
+        {
+          "text": "Describe additives",
+          "created": "2017-07-18T17:41:06.465Z",
+          "updated": "2017-07-18T17:41:06.465Z"
+        },
+        {
+          "text": "What is Quicklime?",
+          "created": "2017-07-18T17:41:06.465Z",
+          "updated": "2017-07-18T17:41:06.465Z"
+        },
+        {
+          "text": "What is carbon sequestration?",
+          "created": "2017-07-17T22:36:49.212Z",
+          "updated": "2017-07-17T22:36:49.212Z"
+        },
+        {
+          "text": "What is global warming?",
+          "created": "2017-07-17T22:36:49.212Z",
+          "updated": "2017-07-17T22:36:49.212Z"
+        }
+      ],
+      "description": null
+    },
+    {
+      "intent": "OPENING_TALK",
+      "created": "2017-07-20T22:46:03.006Z",
+      "updated": "2017-07-20T22:46:03.006Z",
+      "examples": [
+        {
+          "text": "what's happening",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "what's up",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "what up",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "yello",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "yo",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I'm done",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Im done",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "buenos dias",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "hi",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "good day",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "good evening",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "good morning",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "hey there",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Hello",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "greetings",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "heya",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "hey",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "g'day",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "hi there",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "hiya",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "how are ya",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "how are you",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "How are you today",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "howdy",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "how is it going",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "how's it going",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "how's it hanging",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "how you doing",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        }
+      ],
+      "description": null
+    },
+    {
+      "intent": "ABORT_CONVERSATION",
+      "created": "2017-07-20T22:46:03.006Z",
+      "updated": "2017-07-20T22:46:03.006Z",
+      "examples": [
+        {
+          "text": "thanks watson",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "BYE",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "bye bye",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "bye now",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "can I please speak to a human",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "can I talk to a person",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "do you know anything?",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "farewell",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "forget about it",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "forget it",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "fuck off",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "fuck you",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "goodbye",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "good bye",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "good night",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "gotta go",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "gotta run",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "got to go",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "have to go",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "have to leave",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "have to run",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I give up",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I hate you",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I'm leaving",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I think Siri understand better",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I want a human",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I want a human instead",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I want a real person",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I want to speak to a human",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I want to speak to a real person",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I want to talk to a human",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "I want to talk to a person",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "just forget it",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "later",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "laters",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "logging off",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "my time is up",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "need to go",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "need to leave",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "need to run",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "nevermind",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "never mind",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "nope",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "ok bye",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "out of time",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "over and out",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "please direct me to a human agent",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Please let me speak to the handler",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "please transfer me to a human",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "restart",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "see ya",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "see ya later",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "see ya soon",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "see you",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "see you later",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "see you soon",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "should be going",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "should go",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "shut up",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "signing off",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "signing out",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Siri is better than you",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "Siri is smarter than you",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "so long",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "start from the begining",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "start over",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "thank you for your help",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "then bye",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "this sucks",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "time to go",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "toodles",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "transfer me to a person",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "you are so dumb",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "You are welcome",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "you're a waste of time",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "you're stupid",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "you're terrible",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "You're welcome",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        },
+        {
+          "text": "you suck",
+          "created": "2017-07-20T22:46:03.075Z",
+          "updated": "2017-07-20T22:46:03.075Z"
+        }
+      ],
+      "description": null
+    }
+  ],
+  "updated": "2017-07-21T00:34:43.802Z",
+  "entities": [
+    {
+      "entity": "Universe",
+      "values": [
+        {
+          "value": "entropy",
+          "created": "2017-07-18T18:03:26.929Z",
+          "updated": "2017-07-18T18:03:26.929Z",
+          "metadata": null,
+          "synonyms": [
+
+          ]
+        },
+        {
+          "value": "additive",
+          "created": "2017-07-18T18:03:26.929Z",
+          "updated": "2017-07-18T18:03:26.929Z",
+          "metadata": null,
+          "synonyms": [
+            "additive"
+          ]
+        },
+        {
+          "value": "quicklime",
+          "created": "2017-07-18T18:03:26.929Z",
+          "updated": "2017-07-18T18:03:26.929Z",
+          "metadata": null,
+          "synonyms": [
+            "quicklime"
+          ]
+        },
+        {
+          "value": "viscosity",
+          "created": "2017-07-18T18:03:26.929Z",
+          "updated": "2017-07-18T18:03:26.929Z",
+          "metadata": null,
+          "synonyms": [
+
+          ]
+        },
+        {
+          "value": "paint",
+          "created": "2017-07-18T18:21:45.793Z",
+          "updated": "2017-07-18T18:21:45.793Z",
+          "metadata": null,
+          "synonyms": [
+            "paints"
+          ]
+        },
+        {
+          "value": "global",
+          "created": "2017-07-18T19:50:31.551Z",
+          "updated": "2017-07-18T19:50:31.551Z",
+          "metadata": null,
+          "synonyms": [
+
+          ]
+        },
+        {
+          "value": "cation",
+          "created": "2017-07-18T20:42:04.172Z",
+          "updated": "2017-07-18T20:42:04.172Z",
+          "metadata": null,
+          "synonyms": [
+            "cations"
+          ]
+        },
+        {
+          "value": "anions",
+          "created": "2017-07-18T20:42:28.500Z",
+          "updated": "2017-07-18T20:42:28.500Z",
+          "metadata": null,
+          "synonyms": [
+            "anion"
+          ]
+        }
+      ],
+      "created": "2017-07-18T18:03:26.899Z",
+      "updated": "2017-07-18T20:42:28.500Z",
+      "metadata": null,
+      "description": null
+    },
+    {
+      "entity": "Tools",
+      "values": [
+        {
+          "value": "Spray condenser",
+          "created": "2017-07-18T18:03:26.927Z",
+          "updated": "2017-07-18T18:03:26.927Z",
+          "metadata": null,
+          "synonyms": [
+
+          ]
+        },
+        {
+          "value": "catalytic converter",
+          "created": "2017-07-18T18:03:26.927Z",
+          "updated": "2017-07-18T18:03:26.927Z",
+          "metadata": null,
+          "synonyms": [
+
+          ]
+        },
+        {
+          "value": "pneumatic conveying",
+          "created": "2017-07-18T18:03:26.927Z",
+          "updated": "2017-07-18T18:03:26.927Z",
+          "metadata": null,
+          "synonyms": [
+
+          ]
+        }
+      ],
+      "created": "2017-07-18T18:03:26.899Z",
+      "updated": "2017-07-18T18:03:26.899Z",
+      "metadata": null,
+      "description": null
+    },
+    {
+      "entity": "Action",
+      "values": [
+        {
+          "value": "dry",
+          "created": "2017-07-18T18:21:45.793Z",
+          "updated": "2017-07-18T19:49:44.593Z",
+          "metadata": null,
+          "synonyms": [
+            "drying",
+            "dries",
+            "dryed"
+          ]
+        },
+        {
+          "value": "warm",
+          "created": "2017-07-18T19:49:46.473Z",
+          "updated": "2017-07-18T19:49:46.473Z",
+          "metadata": null,
+          "synonyms": [
+            "warms",
+            "warming"
+          ]
+        }
+      ],
+      "created": "2017-07-18T18:21:45.766Z",
+      "updated": "2017-07-18T19:49:46.473Z",
+      "metadata": null,
+      "description": null
+    }
+  ],
+  "language": "en",
+  "metadata": null,
+  "description": "Chemical Engineering demonstration",
+  "dialog_nodes": [
+    {
+      "title": null,
+      "output": {
+
+      },
+      "parent": null,
+      "context": null,
+      "created": "2017-07-18T18:04:20.098Z",
+      "updated": "2017-07-18T20:01:23.545Z",
+      "metadata": null,
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_19_1500401989128"
+      },
+      "conditions": "#Definition",
+      "description": null,
+      "dialog_node": "node_18_1500401061101",
+      "previous_sibling": "node_5_1500591374113"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_18_1500401061101",
+      "context": null,
+      "created": "2017-07-18T20:22:11.718Z",
+      "updated": "2017-07-18T20:23:05.554Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "@Universe:entropy",
+      "description": null,
+      "dialog_node": "node_26_1500409332732",
+      "previous_sibling": "node_23_1500408071709"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "A white caustic alkaline substance consisting of calcium oxide, which is obtained by heating limestone and which combines with water with the production of much heat."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_18_1500401061101",
+      "context": null,
+      "created": "2017-07-18T20:22:00.340Z",
+      "updated": "2017-07-18T20:24:12.038Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "@Universe:quicklime",
+      "description": null,
+      "dialog_node": "node_25_1500409321377",
+      "previous_sibling": "node_26_1500409332732"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "Global warming is the observed century-scale rise in the average temperature of the Earth's climate system and its related effects. <br><embed src='https://www.youtube.com/embed/nnb4tzxAvg0'>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_18_1500401061101",
+      "context": null,
+      "created": "2017-07-18T19:48:16.982Z",
+      "updated": "2017-07-18T20:39:27.536Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "@Universe:global && @Action:warm",
+      "description": null,
+      "dialog_node": "node_22_1500407298141",
+      "previous_sibling": "node_19_1500401989128"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "Hello. How can I help you?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": null,
+      "context": null,
+      "created": "2017-07-18T16:11:29.596Z",
+      "updated": "2017-07-18T16:11:29.596Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "welcome",
+      "description": null,
+      "dialog_node": "Welcome",
+      "previous_sibling": null
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "<img src='http://diferenciaentre.info/wp-content/uploads/2017/02/cation-y-anion.jpg' width='220' height='140'> <br> When a neutral atom loses one or more electrons, the total number of electrons decreases while the number of protons in the nucleus remains the same. The result is that the atom becomes a cation—an ion with a net positive charge. <br> The opposite process can also occur. When a neutral atom gains one or more electrons, the number of electrons increases while the number of protons in the nucleus remains the same. The result is that the atom becomes an anion—an ion with a net negative charge. We can illustrate this by examining some very simple cations and anions, those formed when a single hydrogen atom loses or gains an electron."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_18_1500401061101",
+      "context": null,
+      "created": "2017-07-18T20:46:47.856Z",
+      "updated": "2017-07-18T20:49:26.901Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "@Universe:cation",
+      "description": null,
+      "dialog_node": "node_27_1500410808972",
+      "previous_sibling": "node_25_1500409321377"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "I'm still learning, please come back later."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_18_1500401061101",
+      "context": null,
+      "created": "2017-07-18T20:01:33.129Z",
+      "updated": "2017-07-18T20:22:40.067Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "true",
+      "description": null,
+      "dialog_node": "node_24_1500408094258",
+      "previous_sibling": "node_27_1500410808972"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "Take a look at the discovery service to handle questions like these"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": null,
+      "context": null,
+      "created": "2017-07-18T21:56:35.800Z",
+      "updated": "2017-07-20T22:51:41.015Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "#discovery",
+      "description": null,
+      "dialog_node": "node_28_1500414996904",
+      "previous_sibling": "node_18_1500401061101"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "Viscosity is a measure of its resistance to gradual deformation by shear stress or tensile stress. For fluids, it corresponds to the informal concept of thickness."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_18_1500401061101",
+      "context": null,
+      "created": "2017-07-18T20:01:10.553Z",
+      "updated": "2017-07-18T20:03:59.164Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "@Universe:viscosity",
+      "description": null,
+      "dialog_node": "node_23_1500408071709",
+      "previous_sibling": "node_22_1500407298141"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "When paint dries, the solvent portion of the mixture evaporates away, leaving the pigment suspended in the binding medium in a hard layer."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_18_1500401061101",
+      "context": null,
+      "created": "2017-07-18T18:19:48.278Z",
+      "updated": "2017-07-18T19:47:27.952Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "@Universe:paint && @Action:dry",
+      "description": null,
+      "dialog_node": "node_19_1500401989128",
+      "previous_sibling": null
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "Hello, how can I help you?",
+            "Hi, how can I help you?"
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": null,
+      "context": null,
+      "created": "2017-07-20T22:46:33.225Z",
+      "updated": "2017-07-20T22:47:18.578Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "#OPENING_TALK",
+      "description": null,
+      "dialog_node": "node_3_1500590799675",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "Time to chitchat, let's focus on chemistry",
+            "I would like to talk about chemical topics"
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": null,
+      "context": null,
+      "created": "2017-07-20T22:56:15.367Z",
+      "updated": "2017-07-20T22:58:31.519Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "#SMALL_TALK",
+      "description": null,
+      "dialog_node": "node_5_1500591374113",
+      "previous_sibling": "node_3_1500590799675"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "I didn't understand. You can try rephrasing.",
+            "Can you reword your statement? I'm not understanding.",
+            "I didn't get your meaning."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": null,
+      "context": null,
+      "created": "2017-07-18T16:11:29.596Z",
+      "updated": "2017-07-18T16:11:29.596Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "anything_else",
+      "description": null,
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1500590845460"
+    },
+    {
+      "title": null,
+      "output": {
+        "text": {
+          "values": [
+            "See you",
+            "Talk to you later",
+            "Bye, bye"
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": null,
+      "context": null,
+      "created": "2017-07-20T22:47:26.694Z",
+      "updated": "2017-07-20T22:48:00.059Z",
+      "metadata": null,
+      "next_step": null,
+      "conditions": "#ABORT_CONVERSATION",
+      "description": null,
+      "dialog_node": "node_4_1500590845460",
+      "previous_sibling": "node_28_1500414996904"
+    }
+  ],
+  "workspace_id": "dff060df-8b82-4726-903d-da30526894f9",
+  "counterexamples": [
+
+  ],
+  "learning_opt_out": null
+}
